@@ -25,7 +25,6 @@ public class Main extends Application {
      * This method is creates the main stage
      * @param my_stage the main stage
      */
-
     @Override
     public void start(Stage my_stage){
 
