@@ -26,7 +26,7 @@ public class Main extends Application {
      * @param my_stage the main stage
      */
     @Override
-    public void start(Stage my_stage){
+    public void start(final Stage my_stage){
 
         my_stage.setTitle("Lab1");
         my_stage.setResizable(false);
